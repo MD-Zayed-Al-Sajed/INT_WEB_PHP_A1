@@ -55,8 +55,8 @@
     // Close connection
     $conn->close();
     ?>
-    <footer>
-        <p>&copy; 2024 Employee Management System</p>
-    </footer>
+    <div class="footer">
+        <p><h3>&copy; 2024 Employee Management System</h3></p>
+    </div>
 </body>
 </html>
